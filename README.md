@@ -1,2 +1,1 @@
-# OptiMac
-This repository has changed its name
+# Moved to: https://github.com/zearp/OptiHack
